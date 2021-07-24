@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cityMob/static/css/main.81a0d2ee.chunk.css",
+    "main.js": "/cityMob/static/js/main.9b324403.chunk.js",
+    "main.js.map": "/cityMob/static/js/main.9b324403.chunk.js.map",
+    "runtime-main.js": "/cityMob/static/js/runtime-main.661ab7a2.js",
+    "runtime-main.js.map": "/cityMob/static/js/runtime-main.661ab7a2.js.map",
+    "static/js/2.d69c146b.chunk.js": "/cityMob/static/js/2.d69c146b.chunk.js",
+    "static/js/2.d69c146b.chunk.js.map": "/cityMob/static/js/2.d69c146b.chunk.js.map",
+    "index.html": "/cityMob/index.html",
+    "static/css/main.81a0d2ee.chunk.css.map": "/cityMob/static/css/main.81a0d2ee.chunk.css.map",
+    "static/js/2.d69c146b.chunk.js.LICENSE.txt": "/cityMob/static/js/2.d69c146b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.661ab7a2.js",
+    "static/js/2.d69c146b.chunk.js",
+    "static/css/main.81a0d2ee.chunk.css",
+    "static/js/main.9b324403.chunk.js"
+  ]
+}
